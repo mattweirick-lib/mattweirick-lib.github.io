@@ -1,0 +1,7 @@
+---
+title: My Second Blog Post
+date: 2025-02-26
+description: This is my second blog post
+---
+
+I'm really excited to start blogging. The world desperately needs my thoughts.

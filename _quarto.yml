@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Matthew Weirick Johnson"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: research/index.qmd
+        text: Research
+      - href: blog/index.qmd
+        text: Blog
+      - href: cv/index.qmd
+        text: CV
+
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,9 @@
+---
+title: My First Blog Post
+date: 2025-02-26
+description: This is my first blog post
+---
+
+# My Content
+
+This is the content for my blog post.
